@@ -4,8 +4,8 @@ public class _Driver {
 
 	public static void main(String[] args) {
 		
-		// type this 
-		/* then press enter
+		
+		/* press enter
 		
 		int i = 0;
 		while(i <= 100) { 
